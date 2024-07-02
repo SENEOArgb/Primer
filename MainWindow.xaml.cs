@@ -18,6 +18,7 @@ namespace Primer
     {
 
         int a = 5;
+        string b = "сейчас будет";
 
         public MainWindow()
         {
