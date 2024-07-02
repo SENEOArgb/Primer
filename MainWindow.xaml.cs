@@ -19,7 +19,7 @@ namespace Primer
 
         int a = 5;
         string b = "сейчас будет";
-
+        double c = 5.5;
         public MainWindow()
         {
             InitializeComponent();
